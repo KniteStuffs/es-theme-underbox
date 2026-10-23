@@ -8,6 +8,14 @@ It keeps the layout of the *NES Box* theme and re-skins it: black screens, pixel
 
 > Unofficial fan project. Not affiliated with or endorsed by Toby Fox, Nintendo, Sony, Sega, or anyone else mentioned.
 
+## Screenshots
+
+![Underbox menu](images/menu.png)
+
+![Underbox main menu](images/mainmenu.png)
+
+![Underbox color options](images/config.png)
+
 
 ## Features
 
