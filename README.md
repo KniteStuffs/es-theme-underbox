@@ -53,6 +53,7 @@ It keeps the layout of the *NES Box* theme and re-skins it: black screens, pixel
    - Or `/etc/emulationstation/themes/es-theme-underbox/`.
 3. On the device, go to **Start → UI Settings → Theme Set → es-theme-underbox**.
 4. To change the color, go to **Start → UI Settings → Theme Configuration → Colorset**.
+5.One more, after extracting, inside should be another folder. That's the one you need to copy, or else it won't work.
 
    If the colors don't change, restart EmulationStation.
 
@@ -89,7 +90,6 @@ The Colorset and menu theming options depend on the features supported by your p
 
 As this theme is currently in beta, some systems may have incomplete artwork or features. Updates will add more character art and improvements over time.
 
-One more, after extracting, inside should be another folder. That's the one you need to copy, or else it won't work.
 
 ## Credits
 
