@@ -10,12 +10,14 @@ It keeps the layout of the *NES Box* theme and re-skins it: black screens, pixel
 
 ## Screenshots
 
-![Underbox menu](images/menu.png)
+### System Selection
+![Underbox menu](./images/menu.png)
 
-![Underbox main menu](images/mainmenu.png)
+### Main Menu
+![Underbox main menu](./images/mainmenu.png)
 
-![Underbox color options](images/config.png)
-
+### Theme Configuration
+![Underbox color options](./images/config.png)
 
 ## Features
 
