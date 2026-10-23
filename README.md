@@ -8,17 +8,19 @@ It keeps the layout of the *NES Box* theme and re-skins it: black screens, pixel
 
 > Unofficial fan project. Not affiliated with or endorsed by Toby Fox, Nintendo, Sony, Sega, or anyone else mentioned.
 
+
 ## Screenshots
 
 ### System Selection
-![Underbox menu](./images/menu.png)
+![Underbox menu](./menu.png)
 
 ### Main Menu
-![Underbox main menu](./images/mainmenu.png)
+![Underbox main menu](./mainmenu.png)
 
 ### Theme Configuration
-![Underbox color options](./images/config.png)
+![Underbox color options](./config.png)
 
+ 
 ## Features
 
 - **Colorset option** – Change the color of the frames, bottom bar, system logos, and highlighted game from *Start → UI Settings → Theme Configuration → Colorset*. Choices: White (default), Yellow, Orange, Red, Green, Cyan, Blue, and Purple.
