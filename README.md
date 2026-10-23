@@ -82,5 +82,5 @@ One more, after extracting, inside should be another folder. That's the one you 
 ## Credits
 
 - **NES Box Theme (v2.0)** – Original layout by Travis Wilson / Super Retro City.
-- **Undertale** – Created by Toby Fox. Character art, sound effects, and referenced fonts belong to their respective creators. See `CREDITS.md` for the list of artwork credits.
+- **Undertale** – Created by Toby Fox. Character art, sound effects, and referenced fonts belong to their respective creators.
 - **System names** – Used only as text labels. No official console logos are included.
