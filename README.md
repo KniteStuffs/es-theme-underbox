@@ -77,6 +77,8 @@ The Colorset and menu theming options depend on the features supported by your p
 
 As this theme is currently in beta, some systems may have incomplete artwork or features. Updates will add more character art and improvements over time.
 
+One more, after extracting, inside should be another folder. That's the one you need to copy, or else it won't work.
+
 ## Credits
 
 - **NES Box Theme (v2.0)** – Original layout by Travis Wilson / Super Retro City.
